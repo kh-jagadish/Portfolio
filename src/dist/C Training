@@ -1,0 +1,11 @@
+int main ()
+{
+    int length = 12;
+    int width = 7;
+    float area = (length * width);
+    float perimeter =(2*length)+(2*width);
+    printf ("Area : %,2f\n",area);
+    printf("perimeter : %,2f\n",perimeter);
+
+    returu 0;
+}
